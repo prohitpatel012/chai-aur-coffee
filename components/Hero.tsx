@@ -23,7 +23,7 @@ function Hero() {
                     {/* QR Image */}
                     <div className="flex justify-center border-black border-2 rounded-xl p-4 shadow mx-4 md:mx-0">
                         <Image
-                            src="/QR-scan.png"
+                            src="https://res.cloudinary.com/doijnvedd/image/upload/v1773548204/QR-scan_gpehgb.png"
                             width={300}
                             height={300}
                             alt="QR Code"   
